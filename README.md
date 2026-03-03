@@ -47,7 +47,7 @@ pip install pandas matplotlib seaborn
 Run the analysis script:
 
 Bash
-python task4_location_analysis.py
+python app.py
 📈 Key Insights
 The analysis revealed which cities serve as major culinary hubs.
 
